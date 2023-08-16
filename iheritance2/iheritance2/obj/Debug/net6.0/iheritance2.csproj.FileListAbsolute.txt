@@ -1,0 +1,15 @@
+D:\skill house\c#\iheritance2\iheritance2\bin\Debug\net6.0\iheritance2.exe
+D:\skill house\c#\iheritance2\iheritance2\bin\Debug\net6.0\iheritance2.deps.json
+D:\skill house\c#\iheritance2\iheritance2\bin\Debug\net6.0\iheritance2.runtimeconfig.json
+D:\skill house\c#\iheritance2\iheritance2\bin\Debug\net6.0\iheritance2.dll
+D:\skill house\c#\iheritance2\iheritance2\bin\Debug\net6.0\iheritance2.pdb
+D:\skill house\c#\iheritance2\iheritance2\obj\Debug\net6.0\iheritance2.csproj.AssemblyReference.cache
+D:\skill house\c#\iheritance2\iheritance2\obj\Debug\net6.0\iheritance2.GeneratedMSBuildEditorConfig.editorconfig
+D:\skill house\c#\iheritance2\iheritance2\obj\Debug\net6.0\iheritance2.AssemblyInfoInputs.cache
+D:\skill house\c#\iheritance2\iheritance2\obj\Debug\net6.0\iheritance2.AssemblyInfo.cs
+D:\skill house\c#\iheritance2\iheritance2\obj\Debug\net6.0\iheritance2.csproj.CoreCompileInputs.cache
+D:\skill house\c#\iheritance2\iheritance2\obj\Debug\net6.0\iheritance2.dll
+D:\skill house\c#\iheritance2\iheritance2\obj\Debug\net6.0\refint\iheritance2.dll
+D:\skill house\c#\iheritance2\iheritance2\obj\Debug\net6.0\iheritance2.pdb
+D:\skill house\c#\iheritance2\iheritance2\obj\Debug\net6.0\iheritance2.genruntimeconfig.cache
+D:\skill house\c#\iheritance2\iheritance2\obj\Debug\net6.0\ref\iheritance2.dll
