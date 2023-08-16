@@ -1,0 +1,15 @@
+D:\skill house\c#\UsecaseStatic\UsecaseStatic\bin\Debug\net6.0\UsecaseStatic.exe
+D:\skill house\c#\UsecaseStatic\UsecaseStatic\bin\Debug\net6.0\UsecaseStatic.deps.json
+D:\skill house\c#\UsecaseStatic\UsecaseStatic\bin\Debug\net6.0\UsecaseStatic.runtimeconfig.json
+D:\skill house\c#\UsecaseStatic\UsecaseStatic\bin\Debug\net6.0\UsecaseStatic.dll
+D:\skill house\c#\UsecaseStatic\UsecaseStatic\bin\Debug\net6.0\UsecaseStatic.pdb
+D:\skill house\c#\UsecaseStatic\UsecaseStatic\obj\Debug\net6.0\UsecaseStatic.csproj.AssemblyReference.cache
+D:\skill house\c#\UsecaseStatic\UsecaseStatic\obj\Debug\net6.0\UsecaseStatic.GeneratedMSBuildEditorConfig.editorconfig
+D:\skill house\c#\UsecaseStatic\UsecaseStatic\obj\Debug\net6.0\UsecaseStatic.AssemblyInfoInputs.cache
+D:\skill house\c#\UsecaseStatic\UsecaseStatic\obj\Debug\net6.0\UsecaseStatic.AssemblyInfo.cs
+D:\skill house\c#\UsecaseStatic\UsecaseStatic\obj\Debug\net6.0\UsecaseStatic.csproj.CoreCompileInputs.cache
+D:\skill house\c#\UsecaseStatic\UsecaseStatic\obj\Debug\net6.0\UsecaseStatic.dll
+D:\skill house\c#\UsecaseStatic\UsecaseStatic\obj\Debug\net6.0\refint\UsecaseStatic.dll
+D:\skill house\c#\UsecaseStatic\UsecaseStatic\obj\Debug\net6.0\UsecaseStatic.pdb
+D:\skill house\c#\UsecaseStatic\UsecaseStatic\obj\Debug\net6.0\UsecaseStatic.genruntimeconfig.cache
+D:\skill house\c#\UsecaseStatic\UsecaseStatic\obj\Debug\net6.0\ref\UsecaseStatic.dll

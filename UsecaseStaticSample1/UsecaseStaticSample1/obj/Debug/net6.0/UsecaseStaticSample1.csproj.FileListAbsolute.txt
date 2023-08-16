@@ -1,0 +1,15 @@
+D:\skill house\c#\UsecaseStaticSample1\UsecaseStaticSample1\bin\Debug\net6.0\UsecaseStaticSample1.exe
+D:\skill house\c#\UsecaseStaticSample1\UsecaseStaticSample1\bin\Debug\net6.0\UsecaseStaticSample1.deps.json
+D:\skill house\c#\UsecaseStaticSample1\UsecaseStaticSample1\bin\Debug\net6.0\UsecaseStaticSample1.runtimeconfig.json
+D:\skill house\c#\UsecaseStaticSample1\UsecaseStaticSample1\bin\Debug\net6.0\UsecaseStaticSample1.dll
+D:\skill house\c#\UsecaseStaticSample1\UsecaseStaticSample1\bin\Debug\net6.0\UsecaseStaticSample1.pdb
+D:\skill house\c#\UsecaseStaticSample1\UsecaseStaticSample1\obj\Debug\net6.0\UsecaseStaticSample1.csproj.AssemblyReference.cache
+D:\skill house\c#\UsecaseStaticSample1\UsecaseStaticSample1\obj\Debug\net6.0\UsecaseStaticSample1.GeneratedMSBuildEditorConfig.editorconfig
+D:\skill house\c#\UsecaseStaticSample1\UsecaseStaticSample1\obj\Debug\net6.0\UsecaseStaticSample1.AssemblyInfoInputs.cache
+D:\skill house\c#\UsecaseStaticSample1\UsecaseStaticSample1\obj\Debug\net6.0\UsecaseStaticSample1.AssemblyInfo.cs
+D:\skill house\c#\UsecaseStaticSample1\UsecaseStaticSample1\obj\Debug\net6.0\UsecaseStaticSample1.csproj.CoreCompileInputs.cache
+D:\skill house\c#\UsecaseStaticSample1\UsecaseStaticSample1\obj\Debug\net6.0\UsecaseStaticSample1.dll
+D:\skill house\c#\UsecaseStaticSample1\UsecaseStaticSample1\obj\Debug\net6.0\refint\UsecaseStaticSample1.dll
+D:\skill house\c#\UsecaseStaticSample1\UsecaseStaticSample1\obj\Debug\net6.0\UsecaseStaticSample1.pdb
+D:\skill house\c#\UsecaseStaticSample1\UsecaseStaticSample1\obj\Debug\net6.0\UsecaseStaticSample1.genruntimeconfig.cache
+D:\skill house\c#\UsecaseStaticSample1\UsecaseStaticSample1\obj\Debug\net6.0\ref\UsecaseStaticSample1.dll
