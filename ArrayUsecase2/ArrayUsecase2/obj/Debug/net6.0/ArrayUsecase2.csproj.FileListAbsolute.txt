@@ -1,0 +1,15 @@
+D:\skill house\c#\ArrayUsecase2\ArrayUsecase2\bin\Debug\net6.0\ArrayUsecase2.exe
+D:\skill house\c#\ArrayUsecase2\ArrayUsecase2\bin\Debug\net6.0\ArrayUsecase2.deps.json
+D:\skill house\c#\ArrayUsecase2\ArrayUsecase2\bin\Debug\net6.0\ArrayUsecase2.runtimeconfig.json
+D:\skill house\c#\ArrayUsecase2\ArrayUsecase2\bin\Debug\net6.0\ArrayUsecase2.dll
+D:\skill house\c#\ArrayUsecase2\ArrayUsecase2\bin\Debug\net6.0\ArrayUsecase2.pdb
+D:\skill house\c#\ArrayUsecase2\ArrayUsecase2\obj\Debug\net6.0\ArrayUsecase2.csproj.AssemblyReference.cache
+D:\skill house\c#\ArrayUsecase2\ArrayUsecase2\obj\Debug\net6.0\ArrayUsecase2.GeneratedMSBuildEditorConfig.editorconfig
+D:\skill house\c#\ArrayUsecase2\ArrayUsecase2\obj\Debug\net6.0\ArrayUsecase2.AssemblyInfoInputs.cache
+D:\skill house\c#\ArrayUsecase2\ArrayUsecase2\obj\Debug\net6.0\ArrayUsecase2.AssemblyInfo.cs
+D:\skill house\c#\ArrayUsecase2\ArrayUsecase2\obj\Debug\net6.0\ArrayUsecase2.csproj.CoreCompileInputs.cache
+D:\skill house\c#\ArrayUsecase2\ArrayUsecase2\obj\Debug\net6.0\ArrayUsecase2.dll
+D:\skill house\c#\ArrayUsecase2\ArrayUsecase2\obj\Debug\net6.0\refint\ArrayUsecase2.dll
+D:\skill house\c#\ArrayUsecase2\ArrayUsecase2\obj\Debug\net6.0\ArrayUsecase2.pdb
+D:\skill house\c#\ArrayUsecase2\ArrayUsecase2\obj\Debug\net6.0\ArrayUsecase2.genruntimeconfig.cache
+D:\skill house\c#\ArrayUsecase2\ArrayUsecase2\obj\Debug\net6.0\ref\ArrayUsecase2.dll
