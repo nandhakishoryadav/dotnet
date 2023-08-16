@@ -1,0 +1,15 @@
+D:\skill house\c#\inheritancesample1\inheritancesample1\bin\Debug\net6.0\inheritancesample1.exe
+D:\skill house\c#\inheritancesample1\inheritancesample1\bin\Debug\net6.0\inheritancesample1.deps.json
+D:\skill house\c#\inheritancesample1\inheritancesample1\bin\Debug\net6.0\inheritancesample1.runtimeconfig.json
+D:\skill house\c#\inheritancesample1\inheritancesample1\bin\Debug\net6.0\inheritancesample1.dll
+D:\skill house\c#\inheritancesample1\inheritancesample1\bin\Debug\net6.0\inheritancesample1.pdb
+D:\skill house\c#\inheritancesample1\inheritancesample1\obj\Debug\net6.0\inheritancesample1.csproj.AssemblyReference.cache
+D:\skill house\c#\inheritancesample1\inheritancesample1\obj\Debug\net6.0\inheritancesample1.GeneratedMSBuildEditorConfig.editorconfig
+D:\skill house\c#\inheritancesample1\inheritancesample1\obj\Debug\net6.0\inheritancesample1.AssemblyInfoInputs.cache
+D:\skill house\c#\inheritancesample1\inheritancesample1\obj\Debug\net6.0\inheritancesample1.AssemblyInfo.cs
+D:\skill house\c#\inheritancesample1\inheritancesample1\obj\Debug\net6.0\inheritancesample1.csproj.CoreCompileInputs.cache
+D:\skill house\c#\inheritancesample1\inheritancesample1\obj\Debug\net6.0\inheritancesample1.dll
+D:\skill house\c#\inheritancesample1\inheritancesample1\obj\Debug\net6.0\refint\inheritancesample1.dll
+D:\skill house\c#\inheritancesample1\inheritancesample1\obj\Debug\net6.0\inheritancesample1.pdb
+D:\skill house\c#\inheritancesample1\inheritancesample1\obj\Debug\net6.0\inheritancesample1.genruntimeconfig.cache
+D:\skill house\c#\inheritancesample1\inheritancesample1\obj\Debug\net6.0\ref\inheritancesample1.dll
