@@ -1,0 +1,15 @@
+D:\skill house\c#\SH1\SH1\obj\Debug\net6.0\SH1.csproj.AssemblyReference.cache
+D:\skill house\c#\SH1\SH1\obj\Debug\net6.0\SH1.GeneratedMSBuildEditorConfig.editorconfig
+D:\skill house\c#\SH1\SH1\obj\Debug\net6.0\SH1.AssemblyInfoInputs.cache
+D:\skill house\c#\SH1\SH1\obj\Debug\net6.0\SH1.AssemblyInfo.cs
+D:\skill house\c#\SH1\SH1\obj\Debug\net6.0\SH1.csproj.CoreCompileInputs.cache
+D:\skill house\c#\SH1\SH1\bin\Debug\net6.0\SH1.exe
+D:\skill house\c#\SH1\SH1\bin\Debug\net6.0\SH1.deps.json
+D:\skill house\c#\SH1\SH1\bin\Debug\net6.0\SH1.runtimeconfig.json
+D:\skill house\c#\SH1\SH1\bin\Debug\net6.0\SH1.dll
+D:\skill house\c#\SH1\SH1\bin\Debug\net6.0\SH1.pdb
+D:\skill house\c#\SH1\SH1\obj\Debug\net6.0\SH1.dll
+D:\skill house\c#\SH1\SH1\obj\Debug\net6.0\refint\SH1.dll
+D:\skill house\c#\SH1\SH1\obj\Debug\net6.0\SH1.pdb
+D:\skill house\c#\SH1\SH1\obj\Debug\net6.0\SH1.genruntimeconfig.cache
+D:\skill house\c#\SH1\SH1\obj\Debug\net6.0\ref\SH1.dll
