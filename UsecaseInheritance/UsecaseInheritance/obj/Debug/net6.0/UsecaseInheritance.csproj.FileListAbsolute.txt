@@ -1,0 +1,15 @@
+D:\skill house\c#\UsecaseInheritance\UsecaseInheritance\bin\Debug\net6.0\UsecaseInheritance.exe
+D:\skill house\c#\UsecaseInheritance\UsecaseInheritance\bin\Debug\net6.0\UsecaseInheritance.deps.json
+D:\skill house\c#\UsecaseInheritance\UsecaseInheritance\bin\Debug\net6.0\UsecaseInheritance.runtimeconfig.json
+D:\skill house\c#\UsecaseInheritance\UsecaseInheritance\bin\Debug\net6.0\UsecaseInheritance.dll
+D:\skill house\c#\UsecaseInheritance\UsecaseInheritance\bin\Debug\net6.0\UsecaseInheritance.pdb
+D:\skill house\c#\UsecaseInheritance\UsecaseInheritance\obj\Debug\net6.0\UsecaseInheritance.csproj.AssemblyReference.cache
+D:\skill house\c#\UsecaseInheritance\UsecaseInheritance\obj\Debug\net6.0\UsecaseInheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\skill house\c#\UsecaseInheritance\UsecaseInheritance\obj\Debug\net6.0\UsecaseInheritance.AssemblyInfoInputs.cache
+D:\skill house\c#\UsecaseInheritance\UsecaseInheritance\obj\Debug\net6.0\UsecaseInheritance.AssemblyInfo.cs
+D:\skill house\c#\UsecaseInheritance\UsecaseInheritance\obj\Debug\net6.0\UsecaseInheritance.csproj.CoreCompileInputs.cache
+D:\skill house\c#\UsecaseInheritance\UsecaseInheritance\obj\Debug\net6.0\UsecaseInheritance.dll
+D:\skill house\c#\UsecaseInheritance\UsecaseInheritance\obj\Debug\net6.0\refint\UsecaseInheritance.dll
+D:\skill house\c#\UsecaseInheritance\UsecaseInheritance\obj\Debug\net6.0\UsecaseInheritance.pdb
+D:\skill house\c#\UsecaseInheritance\UsecaseInheritance\obj\Debug\net6.0\UsecaseInheritance.genruntimeconfig.cache
+D:\skill house\c#\UsecaseInheritance\UsecaseInheritance\obj\Debug\net6.0\ref\UsecaseInheritance.dll

@@ -1,0 +1,15 @@
+D:\skill house\c#\usecasesample2\usecasesample2\bin\Debug\net6.0\usecasesample2.exe
+D:\skill house\c#\usecasesample2\usecasesample2\bin\Debug\net6.0\usecasesample2.deps.json
+D:\skill house\c#\usecasesample2\usecasesample2\bin\Debug\net6.0\usecasesample2.runtimeconfig.json
+D:\skill house\c#\usecasesample2\usecasesample2\bin\Debug\net6.0\usecasesample2.dll
+D:\skill house\c#\usecasesample2\usecasesample2\bin\Debug\net6.0\usecasesample2.pdb
+D:\skill house\c#\usecasesample2\usecasesample2\obj\Debug\net6.0\usecasesample2.csproj.AssemblyReference.cache
+D:\skill house\c#\usecasesample2\usecasesample2\obj\Debug\net6.0\usecasesample2.GeneratedMSBuildEditorConfig.editorconfig
+D:\skill house\c#\usecasesample2\usecasesample2\obj\Debug\net6.0\usecasesample2.AssemblyInfoInputs.cache
+D:\skill house\c#\usecasesample2\usecasesample2\obj\Debug\net6.0\usecasesample2.AssemblyInfo.cs
+D:\skill house\c#\usecasesample2\usecasesample2\obj\Debug\net6.0\usecasesample2.csproj.CoreCompileInputs.cache
+D:\skill house\c#\usecasesample2\usecasesample2\obj\Debug\net6.0\usecasesample2.dll
+D:\skill house\c#\usecasesample2\usecasesample2\obj\Debug\net6.0\refint\usecasesample2.dll
+D:\skill house\c#\usecasesample2\usecasesample2\obj\Debug\net6.0\usecasesample2.pdb
+D:\skill house\c#\usecasesample2\usecasesample2\obj\Debug\net6.0\usecasesample2.genruntimeconfig.cache
+D:\skill house\c#\usecasesample2\usecasesample2\obj\Debug\net6.0\ref\usecasesample2.dll
